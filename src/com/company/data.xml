@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><CATALOGUE>
+           
+  
+  
+  
+  
+  <CD>
+                     
+    
+    
+    
+    
+    <TITLE>Empire Burlesque</TITLE>
+                     
+    
+    
+    
+    
+    <ARTIST>Bob Dylan</ARTIST>
+                     
+    
+    
+    
+    
+    <COUNTRY>USA</COUNTRY>
+                     
+    
+    
+    
+    
+    <COMPANY>Columbia</COMPANY>
+                     
+    
+    
+    
+    
+    <PRICE>10.90</PRICE>
+                     
+    
+    
+    
+    
+    <YEAR>1985</YEAR>
+                     
+  
+  
+  
+  
+  </CD>
+        
+  
+  
+  
+  <CD>
+                
+    
+    
+    <TITLE>hm</TITLE>
+                
+    
+    
+    <ARTIST>zara</ARTIST>
+                
+    
+    
+    <COUNTRY>egy</COUNTRY>
+                
+    
+    
+    <COMPANY>rotana</COMPANY>
+                
+    
+    
+    <PRICE>22</PRICE>
+                
+    
+    
+    <YEAR>2000</YEAR>
+              
+  
+  
+  </CD>
+      
+  
+  
+  <CD>
+            
+    
+    <TITLE>new_one</TITLE>
+            
+    
+    <ARTIST>elisa</ARTIST>
+            
+    
+    <COUNTRY>SUA</COUNTRY>
+            
+    
+    <COMPANY>rotana</COMPANY>
+            
+    
+    <PRICE>200</PRICE>
+            
+    
+    <YEAR>2001</YEAR>
+          
+  
+  </CD>
+    
+  
+  <CD>
+        
+    <TITLE>moaz</TITLE>
+        
+    <ARTIST>moaz</ARTIST>
+        
+    <COUNTRY>ma</COUNTRY>
+        
+    <COMPANY>moaz</COMPANY>
+        
+    <PRICE>moaz</PRICE>
+        
+    <YEAR>moaz</YEAR>
+      
+  </CD>
+  
+  <CD>
+    <TITLE>ahmed</TITLE>
+    <ARTIST>ahmed</ARTIST>
+    <COUNTRY>ahmed</COUNTRY>
+    <COMPANY>ahmwd</COMPANY>
+    <PRICE>sdss</PRICE>
+    <YEAR>5445</YEAR>
+  </CD>
+</CATALOGUE>
